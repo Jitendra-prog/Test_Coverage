@@ -3,6 +3,7 @@
     <test name="UI Tests">
         <classes>
             <class name="com.demo.ui.HerokuAppUITest"/>
+            <class name="com.demo.CalculatorTest"/>
         </classes>
     </test>
 </suite>
